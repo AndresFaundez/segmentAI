@@ -18,8 +18,8 @@ Todo el backend vive en `backend/` (ver `AGENTS.md`). Los comandos de abajo se c
 ## Cómo empezar
 
 ```bash
-git clone https://github.com/AndresFaundez/grupo_hackaton.git
-cd grupo_hackaton/backend
+git clone https://github.com/AndresFaundez/segmentAI.git
+cd segmentAI/backend
 python3 -m venv .venv && .venv/bin/pip install -e '.[dev]'   # o: uv sync --extra dev
 cp .env.example .env
 ```

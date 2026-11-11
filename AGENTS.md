@@ -1,4 +1,4 @@
-# AGENTS.md — grupo_hackaton
+# AGENTS.md — segmentAI
 
 Instrucciones y contexto compartido para los agentes de IA que trabajan en este
 repositorio. Todos los equipos deben leer este archivo antes de contribuir.
